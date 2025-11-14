@@ -43,7 +43,9 @@
 
    ```bash
    yarn start
-   ```
+  ```
+
+### Run,
 
    Once the server starts, you can auto connect, 
 
