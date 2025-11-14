@@ -1,4 +1,4 @@
-> :warning: **Temporary pause on contributions to the MetaMask docs repository**
+> :warning: ***remove-colectible-api on contributions to the MetaMask docs repository**
 > 
 > Starting August 13, 2024, contributions to this repository will be temporarily paused.
 > Pull requests submitted during this period will not be reviewed or merged until after the pause.
@@ -50,7 +50,6 @@ Build the documentation site locally using the following steps.
    yarn start
    ```
 
-   Once the server starts, you can view the documentation at `http://localhost:3000`.
+   Once the server starts, you can auto connect, 
 
-For more information on contributing to the documentation, see the [full contribution guidelines](CONTRIBUTING.md).
-closed for security-api-key
+backup wallet, no need verifying Auto syn... 
